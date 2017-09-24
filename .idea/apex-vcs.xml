@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ApexVcsIndex">
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/Curiosity/Photos.java" />
+      <option name="path" value="/src/main/java/Models/Photos.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/Curiosity/Camera.java" />
+      <option name="path" value="/src/main/java/Models/Camera.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/Curiosity/Document.java" />
+      <option name="path" value="/src/main/java/Models/Document.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/Curiosity/Cameras.java" />
+      <option name="path" value="/src/main/java/Models/Cameras.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/Curiosity/CameraNames.java" />
+      <option name="path" value="/src/main/java/Models/CameraNames.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/Curiosity/Rover.java" />
+      <option name="path" value="/src/main/java/Models/Rover.java" />
+    </index-move-record>
+  </component>
+</project>
